@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="contact_image_width">60dp</dimen>
+    <dimen name="contact_image_height">60dp</dimen>
+
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="elevation_small">8dp</dimen>
+
+    <dimen name="toolbar_text_size">18sp</dimen>
+    <dimen name="toolbar_height_size">50dp</dimen>
+</resources>

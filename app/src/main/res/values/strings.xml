@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">baampplication</string>
+    <string name="contactName">Имя Фамилия</string>
+    <string name="contactPhoneNumber">+000000000001</string>
+    <string name="contactEmail1">email-1</string>
+    <string name="contactEmail2">email-2</string>
+    <string name="contactEmail">…</string>
+    <string name="todo">TODO</string>
 </resources>
